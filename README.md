@@ -15,7 +15,7 @@ rm -rf demo
 mkdir demo
 cd demo
 virtualenv --python python3 demo_venv
-mv [path to demo folder] demo_venv
+mv [path_to_files_in_demo_folder] demo_venv
 cd demo_venv
 ```
 
